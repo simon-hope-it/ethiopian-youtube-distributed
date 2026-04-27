@@ -14,6 +14,11 @@ main                    # Production-ready code
 ├── feature/video-gallery
 ├── feature/media-player
 ├── feature/upload-modal
+├── feature/css-animation
+├── feature/rmi-client
+├── feature/data-management
+├── feature/frontend-testing
+├── feature/performance
 ├── feature/integration
 ├── feature/testing
 └── hotfix/*
